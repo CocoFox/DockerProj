@@ -1,0 +1,1 @@
+drop table Chaussures, Clients, Reservations, Administrateurs;
